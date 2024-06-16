@@ -59,7 +59,7 @@ Upon completion of the security review, a detailed report will be provided. The 
 
 Example audit reports for my previous audits : 
 
- | [My Audits][(https://github.com/davarbla/audits)](https://github.com/davarbla/audits) |
+ [(My Audits)](https://github.com/davarbla/audits) |
 
 ## Auditing Resources
 
