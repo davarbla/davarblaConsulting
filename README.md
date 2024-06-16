@@ -57,9 +57,9 @@ Upon completion of the security review, a detailed report will be provided. The 
 
 ## Reports
 
-Example audit reports for my previous audits are in [here](reports), check them out.
+Example audit reports for my previous audits : 
 
-- | 1 | - | [CodeHawks](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) |
+ | [My Audits][(https://github.com/davarbla/audits)](https://github.com/davarbla/audits) |
 
 ## Auditing Resources
 
