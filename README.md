@@ -66,8 +66,8 @@ Example audit reports for my previous audits :
 
 For those interested in learning smart contract auditing, discover valuable resources :
  - [Resources](resources)
- - [Smart contracts threads]([](https://github.com/davarbla/smartContractsAttacks))
- - [Defi threads](https://github.com/davarbla/defiAttacks))
+ - [Smart contracts threads](https://github.com/davarbla/smartContractsAttacks)
+ - [Defi threads](https://github.com/davarbla/defiAttacks)
 
 
 
