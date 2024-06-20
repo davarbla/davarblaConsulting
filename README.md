@@ -59,12 +59,17 @@ Upon completion of the security review, a detailed report will be provided. The 
 
 Example audit reports for my previous audits : 
 
- [(Davarbla Consulting Audits)](https://github.com/davarbla/audits) 
+ [Audits](https://github.com/davarbla/audits) 
 
 ## Auditing Resources
 
 
-For those interested in learning smart contract auditing, discover valuable resources [here](resources).
+For those interested in learning smart contract auditing, discover valuable resources :
+ - [Resources](resources)
+ - [Smart contracts threads]([](https://github.com/davarbla/smartContractsAttacks))
+ - [Defi threads](https://github.com/davarbla/defiAttacks))
+
+
 
 ## Disclaimer
 
